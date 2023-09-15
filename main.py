@@ -20,7 +20,7 @@ def main():
         for j in range(1, 13):
             result = i * j
             print("", result, "", "\t", end="")
-        print()
+        print("\n")
 
 
 if __name__ == '__main__':
